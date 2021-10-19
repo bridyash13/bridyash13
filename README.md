@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=bridyash13&theme=merko&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
 
 
 
