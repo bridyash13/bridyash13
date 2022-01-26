@@ -1,5 +1,5 @@
-### Helloo!! It's Yash here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="22" width="22">
-
+![Bannner](https://github.com/bridyash13/bridyash13/blob/main/Banner.png)
+### Hello World! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="22" width="22">
 <!--
 **bridyash13/bridyash13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
