@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bridyash13&langs_count=3&theme=radical)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridyash13&theme=radical)]
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bridyash13&langs_count=3&theme=chartreuse-dark" />
+</a>
+&nbsp
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bridyash13&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
