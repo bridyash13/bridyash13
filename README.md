@@ -3,7 +3,7 @@
 <h2 align="center">Introduction</h2>
 
 ### Hello World! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="22" width="22">
-I am a sharp observer and an enthusiastic learner with great programming abilities. An aspirant software engineer and problem solver with strong problem-solving and strategic planning skills. In partnership with my fellow classmates, I have worked on a variety of projects. I also have open source contribution experience, which has taught me how to collaborate with my peers when working on a project. I am looking for an internship in which I can add value to the project I'm working on while enhancing my skills.
+I am a sharp observer and an enthusiastic learner with great programming abilities. An aspirant software engineer and problem solver with strong problem-solving and strategic planning skills. In partnership with my fellow classmates, I have worked on a variety of projects.I am looking for an internship in which I can add value to the project I'm working on while enhancing my skills.
 
 <h2 align="center">Technology Stack</h2>
 
